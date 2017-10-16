@@ -8,6 +8,14 @@
 */
  public class Calculate{
 /**
+* Method echo.
+* @param name Your name.
+* @return Echo plus your name.
+*/
+public String echo(String name) {
+    return "Echo, echo, echo : " + name;
+}
+/**
 * @author Valentin Verkhovykh (mailto:vervv74@gmail.com)
 * @param массив String[] args для запуска методов на исполнение
 * @since 15.10.17
