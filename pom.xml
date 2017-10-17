@@ -15,6 +15,7 @@
 
 <modules>
 <module>chapter_001</module>
+
 </modules>
 
 <dependencies>
@@ -47,6 +48,7 @@
 <consoleOutput>true</consoleOutput>
 <failsOnError>true</failsOnError>
 <includeTestSourceDirectory>true</includeTestSourceDirectory>
+
 </configuration>
 <goals>
 <goal>check</goal>
